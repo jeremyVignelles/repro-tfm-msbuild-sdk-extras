@@ -1,0 +1,9 @@
+<Project Sdk="MSBuild.Sdk.Extras">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net6.0;net6.0-windows</TargetFrameworks>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
